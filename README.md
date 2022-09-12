@@ -1,3 +1,3 @@
 # NLW
- Projeto NWL - Rocketseat <br>
+ Projeto NLW - Rocketseat <br>
  <b> Tema: eSports
