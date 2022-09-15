@@ -1,6 +1,18 @@
-# NLW
- Projeto NLW - Rocketseat 
- <br>
- Tema: eSports
+# NLW eSports
 
-<img src="./assets/nlw.png" alt="Capa nlw">
+![preview](./.github/preview.png)
+
+> Trilha Explorer
+
+🚀 Projeto construído do evento Next Level Week da Rocketseat 🚀
+
+[🔗 Clique aqui para acessar.](https://danielkistemacher.github.io/NLW/)
+
+## 🛠 Tecnologias
+
+- HTML
+- CSS
+- Git e GitHub
+
+## ✉ Contato
+danielkistemacher@gmail.com
